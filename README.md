@@ -3,6 +3,10 @@
 </div>
 
 
+<video src="https://raw.githubusercontent.com/Bhavesh007Sharma/ScholarLens-AI/main/clideo_editor_a93f35da7bbc44bc8cdc51fc0e86579f.mp4" controls width="700"></video>
+
+
+
 # ScholarLens AI – Agentic Research Assistant
 
 ScholarLens AI is an advanced **Agentic Research Assistant** for serious readers, students, and researchers.  
